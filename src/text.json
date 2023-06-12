@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Customer": "alex.johnson@gmail.com",
+    "Name": "AAA",
+    "Surname": "Jhnson",
+    "Status": "Not Paid",
+    "Amount": "1502",
+    "Jai": "102"
+  },
+  {
+    "id": 2,
+    "Customer": "jane.smith@gmail.com",
+    "Name": "Jane",
+    "Surname": "Smith",
+    "Status": "Paid",
+    "Amount": 200,
+    "Jai": "15"
+  },
+  {
+    "id": 3,
+    "Customer": "alex.johnson@gmail.com",
+    "Name": "Alex",
+    "Surname": "Johnson",
+    "Status": "Not Paid",
+    "Amount": 150,
+    "Jai": "32"
+  },
+  {
+    "id": 4,
+    "Customer": "john.doe@gmail.com",
+    "Name": "Asset",
+    "Surname": "AA",
+    "Status": "Awaiting",
+    "Amount": 100,
+    "Jai": 1
+  }
+]
